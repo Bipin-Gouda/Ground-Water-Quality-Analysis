@@ -9,8 +9,6 @@ This project focuses on analyzing the groundwater quality in Odisha, India. By l
 - [Usage](#usage)
 - [Analysis](#analysis)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 Groundwater quality is crucial for public health, agriculture, and industrial activities. This project analyzes groundwater quality data from Odisha to provide insights into the factors affecting water quality and identify areas that may require intervention.
