@@ -1,4 +1,4 @@
-# Ground Water Quality Analysis of Odisha
+# Case Study: Ground Water Quality Analysis of Odisha
 
 This project focuses on analyzing the groundwater quality in Odisha, India. By leveraging data analysis and visualization techniques, we aim to identify trends and patterns in groundwater quality across different regions of the state.
 
